@@ -1,0 +1,1 @@
+Set icon for OpenGL Window
